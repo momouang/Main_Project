@@ -19,7 +19,10 @@ public class Arrow : MonoBehaviour {
         myBody = GetComponent<Rigidbody>();
         forward = GameObject.Find("Forward");
         transform.LookAt(forward.transform);
-        shoot = GetComponent<Shoot>();
+        if (shoot == null)
+        {
+            Debug.Log("shoot null");
+        }
 
     }
 	

@@ -9,23 +9,24 @@ public class MainMenu : MonoBehaviour {
 
     public void PlayGame()
     {
-        StartCoroutine( Loadlevel(1));
+        StartCoroutine(Loadlevel(1));
     }
 
     public void GameOver()
     {
-        GameManeger.gameIsPaused = true;
-        Time.timeScale = 1;
+        //GameManeger.gameIsPaused = true;
+        //Time.timeScale = 0;
         StartCoroutine(Loadlevel(0));
-        AudioManager.instance.fadeOut("gameOver");
-        AudioManager.instance.Play("gameBattle");
+        //AudioManager.instance.fadeOut("gameOver");
+        //AudioManager.instance.Play("gameBattle");
+        Debug.Log("changing");
     }
 
     public void gameWins()
     {
         StartCoroutine(Loadlevel(0));
-        AudioManager.instance.Play("gameBattle");
-        AudioManager.instance.fadeOut("youWin");
+        //AudioManager.instance.Play("gameBattle");
+        //AudioManager.instance.fadeOut("youWin");
     }
 
     public void quit()

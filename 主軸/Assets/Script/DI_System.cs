@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class DI_System : MonoBehaviour
 {
     public EyeCollision eyecollision;
+    public PlayerMovement playermovement;
 
     [Header("References")]
 
@@ -17,6 +18,8 @@ public class DI_System : MonoBehaviour
 
     public Dictionary<Transform, DamageIndicator> Indicators = new Dictionary<Transform, DamageIndicator>();
     public bool isAttacking;
+
+    Timer timerObj;
 
 
     #region Delegates
@@ -49,7 +52,13 @@ public class DI_System : MonoBehaviour
         Indicators.Add(target, IndicatorScript);
         newIndicator.transform.SetParent(canvas.transform, false);
 
+        timerObj = newIndicator.transform.GetChild(1).GetComponent<Timer>();
         eyecollision.area = newIndicator.gameObject.GetComponentInChildren<Image>();
+        newIndicator.transform.GetChild(1).GetComponent<Timer>().eyecollision = eyecollision;
+        newIndicator.transform.GetChild(1).GetComponent<Timer>().player = playermovement;
+
+        timerObj.gameObject.SetActive(true);
+
     }
 
     bool InSight(Transform t)

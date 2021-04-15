@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour {
     public GameManeger gameManeger;
     public CharacterController controller;
     public Rigidbody rb;
+    Timer timerObj;
 
     public float speed = 12f;
     public float gravity = -9.81f;
@@ -29,6 +30,9 @@ public class PlayerMovement : MonoBehaviour {
     float parameter;
     float parameter2;
 
+    float forwardx;
+    float turny;
+
     private void Start()
     {
         currentHealth = maxHealth;
@@ -40,6 +44,7 @@ public class PlayerMovement : MonoBehaviour {
         {
             Debug.Log("joy-con not connected");
         }
+
     }
 
     void Update () {
@@ -69,9 +74,13 @@ public class PlayerMovement : MonoBehaviour {
             float[] axes = j.GetStick();
 
             Vector3 move = transform.right * axes[0] + transform.forward * axes[1];
+
+            forwardx = Mathf.InverseLerp(-1,1,axes[0]);
+            turny = Mathf.InverseLerp(-1, 1, axes[1]);
+
             controller.Move(move * speed * Time.deltaTime);
-            //anim.SetFloat("Forward", speed*Time.deltaTime);
-            //anim.SetFloat("Turn", speed * Time.deltaTime);
+            anim.SetFloat("Forward", axes[1]);
+            anim.SetFloat("Turn", axes[0]);
             velocity.y += gravity * Time.deltaTime;
             controller.Move(velocity * Time.deltaTime);
         }

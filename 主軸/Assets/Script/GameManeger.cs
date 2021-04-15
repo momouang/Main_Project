@@ -60,14 +60,14 @@ public class GameManeger : MonoBehaviour {
         //Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
 
-        gameIsPaused = true;
+        //gameIsPaused = true;
         Invoke("startgameOver",1.5f);
     }
 
     void startgameOver()
     {
-        AudioManager.instance.Play("gameOver");
-        AudioManager.instance.fadeOut("gameBattle");
-        Time.timeScale = 0;
+        //AudioManager.instance.Play("gameOver");
+        //AudioManager.instance.fadeOut("gameBattle");
+        Time.timeScale = 1;
     }
 }

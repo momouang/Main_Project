@@ -9,7 +9,6 @@ public class Timer : MonoBehaviour {
     float time;
     public Text timeText;
     public RectTransform indicatorTransform;
-
     public EyeCollision eyecollision;
     public PlayerMovement player;
 
@@ -21,10 +20,9 @@ public class Timer : MonoBehaviour {
         timeText.enabled = false;
     }
 
-    private void Update()
+    private void LateUpdate()
     {
-       gameObject.transform.position = indicatorTransform.position;
-
+        transform.rotation = Quaternion.identity;
         if(eyecollision.isinArea)
         {
             fillImg.enabled = true;

@@ -30,7 +30,7 @@ public class Shoot : MonoBehaviour {
     {
         isShooting = false;
         currentAmmo = maxAmmo;
-
+        anim.SetBool("hold", false);
         joycons = JoyconManager.Instance.j;
     } 
 
@@ -46,6 +46,7 @@ public class Shoot : MonoBehaviour {
                 {
                     isShooting = false;
                     anim.SetBool("released", false);
+                    anim.SetBool("hold", true);
                     anim.Play("Hold");
                     Hold();
                 }
@@ -55,6 +56,7 @@ public class Shoot : MonoBehaviour {
                 {
                     isShooting = true;
                     anim.SetBool("released",true);
+                    anim.SetBool("hold", false);
                     Release();
                 }
             }
@@ -63,7 +65,7 @@ public class Shoot : MonoBehaviour {
 
     public void Hold()
     {
-        go = Instantiate(arrowPrefab, arrowSpawn.position,Quaternion.identity) as GameObject;
+        go = Instantiate(arrowPrefab, arrowSpawn.position,transform.rotation) as GameObject;
         rb = go.GetComponent<Rigidbody>();
         rb.useGravity = false;
         rb.isKinematic = true;
