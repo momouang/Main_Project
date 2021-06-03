@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 820439a63acaf164b8a55166e895fdaa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: lobby_new:polySurface473
+    100004: lobby_new:polySurface474
+    100006: lobby_new:polySurface475
+    100008: lobby_new:polySurface476
+    100010: lobby_new:polySurface477
+    100012: lobby_new:polySurface478
+    100014: lobby_new:polySurface479
+    100016: lobby_new:polySurface480
+    100018: lobby_new:polySurface481
+    100020: lobby_new:polySurface482
+    100022: lobby_new:polySurface483
+    100024: lobby_new:polySurface484
+    100026: lobby_new:polySurface485
+    100028: lobby_new:polySurface486
+    100030: lobby_new:polySurface487
+    100032: lobby_new:polySurface488
+    100034: lobby_new:polySurface489
+    100036: lobby_new:polySurface490
+    100038: lobby_new:polySurface491
+    100040: lobby_new:polySurface492
+    100042: lobby_new:polySurface493
+    100044: lobby_new:polySurface494
+    100046: lobby_new:polySurface495
+    100048: lobby_new:polySurface496
+    100050: lobby_new:polySurface497
+    100052: lobby_new:polySurface498
+    100054: lobby_new:polySurface500
+    100056: lobby_new:polySurface503
+    100058: lobby_new:polySurface504
+    100060: lobby_new:pSphere8
+    100062: lobby_new:transform10
+    100064: lobby_new:transform11
+    100066: lobby_new:transform12
+    100068: lobby_new:transform13
+    100070: lobby_new:transform14
+    100072: lobby_new:transform15
+    100074: lobby_new:transform16
+    100076: lobby_new:transform17
+    100078: lobby_new:transform18
+    100080: lobby_new:transform19
+    100082: lobby_new:transform20
+    100084: lobby_new:transform21
+    100086: lobby_new:transform22
+    100088: lobby_new:transform23
+    100090: lobby_new:transform24
+    100092: lobby_new:transform25
+    100094: lobby_new:transform26
+    100096: lobby_new:transform27
+    100098: lobby_new:transform28
+    100100: lobby_new:transform29
+    100102: lobby_new:transform3
+    100104: lobby_new:transform30
+    100106: lobby_new:transform31
+    100108: lobby_new:transform4
+    100110: lobby_new:transform5
+    100112: lobby_new:transform6
+    100114: lobby_new:transform7
+    100116: lobby_new:transform8
+    100118: lobby_new:transform9
+    400000: //RootNode
+    400002: lobby_new:polySurface473
+    400004: lobby_new:polySurface474
+    400006: lobby_new:polySurface475
+    400008: lobby_new:polySurface476
+    400010: lobby_new:polySurface477
+    400012: lobby_new:polySurface478
+    400014: lobby_new:polySurface479
+    400016: lobby_new:polySurface480
+    400018: lobby_new:polySurface481
+    400020: lobby_new:polySurface482
+    400022: lobby_new:polySurface483
+    400024: lobby_new:polySurface484
+    400026: lobby_new:polySurface485
+    400028: lobby_new:polySurface486
+    400030: lobby_new:polySurface487
+    400032: lobby_new:polySurface488
+    400034: lobby_new:polySurface489
+    400036: lobby_new:polySurface490
+    400038: lobby_new:polySurface491
+    400040: lobby_new:polySurface492
+    400042: lobby_new:polySurface493
+    400044: lobby_new:polySurface494
+    400046: lobby_new:polySurface495
+    400048: lobby_new:polySurface496
+    400050: lobby_new:polySurface497
+    400052: lobby_new:polySurface498
+    400054: lobby_new:polySurface500
+    400056: lobby_new:polySurface503
+    400058: lobby_new:polySurface504
+    400060: lobby_new:pSphere8
+    400062: lobby_new:transform10
+    400064: lobby_new:transform11
+    400066: lobby_new:transform12
+    400068: lobby_new:transform13
+    400070: lobby_new:transform14
+    400072: lobby_new:transform15
+    400074: lobby_new:transform16
+    400076: lobby_new:transform17
+    400078: lobby_new:transform18
+    400080: lobby_new:transform19
+    400082: lobby_new:transform20
+    400084: lobby_new:transform21
+    400086: lobby_new:transform22
+    400088: lobby_new:transform23
+    400090: lobby_new:transform24
+    400092: lobby_new:transform25
+    400094: lobby_new:transform26
+    400096: lobby_new:transform27
+    400098: lobby_new:transform28
+    400100: lobby_new:transform29
+    400102: lobby_new:transform3
+    400104: lobby_new:transform30
+    400106: lobby_new:transform31
+    400108: lobby_new:transform4
+    400110: lobby_new:transform5
+    400112: lobby_new:transform6
+    400114: lobby_new:transform7
+    400116: lobby_new:transform8
+    400118: lobby_new:transform9
+    2100000: lobby_new_lobby_object_white_wall
+    2300000: lobby_new:polySurface504
+    3300000: lobby_new:polySurface504
+    4300000: lobby_new:polySurface504
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,14 +1,30 @@
 fileFormatVersion: 2
-guid: 9ca1bdc41507145b2b56b747034188bb
+guid: f38119428001ac04f943d2934946dae0
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: lobby_new:lobby_object:pCube50
+    100004: lobby_new:lobby_object:pCube76
+    100006: lobby_new:lobby_object:transform3
+    100008: lobby_new:lobby_object:transform4
+    100010: lobby_new:lobby_object:transform5
+    100012: lobby_new:pCube50
+    100014: lobby_new:polySurface466
     400000: //RootNode
-    2100000: lobby_object_aiStandardSurface8
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: polySurface472
+    400002: lobby_new:lobby_object:pCube50
+    400004: lobby_new:lobby_object:pCube76
+    400006: lobby_new:lobby_object:transform3
+    400008: lobby_new:lobby_object:transform4
+    400010: lobby_new:lobby_object:transform5
+    400012: lobby_new:pCube50
+    400014: lobby_new:polySurface466
+    2100000: lobby_new_lobby_object_white_wall
+    2300000: lobby_new:lobby_object:pCube76
+    3300000: lobby_new:lobby_object:pCube76
+    4300000: lobby_new:lobby_object:pCube76
+    7400000: Take 001
+    9500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -61,8 +77,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -89,7 +105,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
