@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: 8781b8f381e494e73aa76fd4b73a01a3
+guid: 5d8dfbbab9b634c00a806f1cc24f5166
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lobby_object_aiStandardSurface12
+    2100000: lobby_object_white_wall
     2300000: //RootNode
     3300000: //RootNode
-    4300000: lobby_object:polySurface24
+    4300000: polySurface402
   externalObjects: {}
   materials:
     importMaterials: 1

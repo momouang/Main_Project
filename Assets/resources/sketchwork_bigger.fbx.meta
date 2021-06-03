@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a81a2dad46d794422bf9b54e1f74fcbd
+guid: fd655bccab3d64df19574c941ac6eee7
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -19,7 +19,25 @@ ModelImporter:
     100026: concept_wall:transform16
     100028: concept_wall:transform17
     100030: group8
-    100032: //RootNode
+    100032: group9
+    100034: polySurface431
+    100036: polySurface431 1
+    100038: polySurface432
+    100040: polySurface433
+    100042: polySurface434
+    100044: polySurface435
+    100046: polySurface436
+    100048: polySurface437
+    100050: //RootNode
+    100052: transform288
+    100054: transform307
+    100056: transform308
+    100058: transform309
+    100060: transform310
+    100062: transform311
+    100064: transform312
+    100066: transform313
+    100068: workroom
     400000: concept_wall:ske_work01
     400002: concept_wall:ske_work02
     400004: concept_wall:ske_work03
@@ -36,11 +54,29 @@ ModelImporter:
     400026: concept_wall:transform16
     400028: concept_wall:transform17
     400030: group8
-    400032: //RootNode
+    400032: group9
+    400034: polySurface431
+    400036: polySurface431 1
+    400038: polySurface432
+    400040: polySurface433
+    400042: polySurface434
+    400044: polySurface435
+    400046: polySurface436
+    400048: polySurface437
+    400050: //RootNode
+    400052: transform288
+    400054: transform307
+    400056: transform308
+    400058: transform309
+    400060: transform310
+    400062: transform311
+    400064: transform312
+    400066: transform313
+    400068: workroom
     2100000: concept_wall_sketch01
-    2300000: concept_wall:ske_work04
-    3300000: concept_wall:ske_work04
-    4300000: concept_wall:ske_work04
+    2300000: polySurface431
+    3300000: polySurface431
+    4300000: polySurface431
   externalObjects: {}
   materials:
     importMaterials: 1

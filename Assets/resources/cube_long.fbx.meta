@@ -1,24 +1,14 @@
 fileFormatVersion: 2
-guid: 29699a82f76e34229a0dbe90e44119bb
+guid: ad92a1fe7db7a472fa14bd60a9e3be99
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: pCube74
-    100002: pCube75
-    100004: pCube76
-    100006: //RootNode
-    100008: transform15
-    100010: transform16
-    400000: pCube74
-    400002: pCube75
-    400004: pCube76
-    400006: //RootNode
-    400008: transform15
-    400010: transform16
-    2100000: lambert1
-    2300000: pCube76
-    3300000: pCube76
-    4300000: pCube76
+    100000: //RootNode
+    400000: //RootNode
+    2100000: lobby_object_white_wall
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: lobby_object:pCube49
   externalObjects: {}
   materials:
     importMaterials: 1

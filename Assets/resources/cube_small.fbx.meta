@@ -1,66 +1,14 @@
 fileFormatVersion: 2
-guid: 56bdc331a1dda4e09ab64c4c5a09e1d1
+guid: e16df651c6a1349aeaced58c513f2231
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: concept_wall:ske_door
-    100002: concept_wall:ske_door 1
-    100004: concept_wall:ske_floor
-    100006: concept_wall:ske_round_wall
-    100008: concept_wall:ske_round_wall 1
-    100010: concept_wall:ske_wall01
-    100012: concept_wall:ske_wall02
-    100014: concept_wall:ske_wall03
-    100016: concept_wall:ske_wall04
-    100018: concept_wall:ske_wall05
-    100020: concept_wall:ske_wall06
-    100022: concept_wall:ske_wall07
-    100024: concept_wall:ske_wall08
-    100026: concept_wall:transform1
-    100028: concept_wall:transform10
-    100030: concept_wall:transform18
-    100032: concept_wall:transform19
-    100034: concept_wall:transform2
-    100036: concept_wall:transform3
-    100038: concept_wall:transform4
-    100040: concept_wall:transform5
-    100042: concept_wall:transform6
-    100044: concept_wall:transform7
-    100046: concept_wall:transform8
-    100048: concept_wall:transform9
-    100050: group8
-    100052: //RootNode
-    400000: concept_wall:ske_door
-    400002: concept_wall:ske_door 1
-    400004: concept_wall:ske_floor
-    400006: concept_wall:ske_round_wall
-    400008: concept_wall:ske_round_wall 1
-    400010: concept_wall:ske_wall01
-    400012: concept_wall:ske_wall02
-    400014: concept_wall:ske_wall03
-    400016: concept_wall:ske_wall04
-    400018: concept_wall:ske_wall05
-    400020: concept_wall:ske_wall06
-    400022: concept_wall:ske_wall07
-    400024: concept_wall:ske_wall08
-    400026: concept_wall:transform1
-    400028: concept_wall:transform10
-    400030: concept_wall:transform18
-    400032: concept_wall:transform19
-    400034: concept_wall:transform2
-    400036: concept_wall:transform3
-    400038: concept_wall:transform4
-    400040: concept_wall:transform5
-    400042: concept_wall:transform6
-    400044: concept_wall:transform7
-    400046: concept_wall:transform8
-    400048: concept_wall:transform9
-    400050: group8
-    400052: //RootNode
-    2100000: concept_wall_sketch_room_UV
-    2300000: concept_wall:ske_door
-    3300000: concept_wall:ske_door
-    4300000: concept_wall:ske_door
+    100000: //RootNode
+    400000: //RootNode
+    2100000: lobby_object_white_wall
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: polySurface458
   externalObjects: {}
   materials:
     importMaterials: 1

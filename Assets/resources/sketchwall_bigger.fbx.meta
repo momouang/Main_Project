@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 71213e874b53a48018ae16bd528bf5cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: concept_wall:ske_door
+    100002: concept_wall:ske_floor
+    100004: concept_wall:ske_round_wall
+    100006: concept_wall:ske_round_wall 1
+    100008: concept_wall:ske_wall01
+    100010: concept_wall:ske_wall02
+    100012: concept_wall:ske_wall03
+    100014: concept_wall:ske_wall04
+    100016: concept_wall:ske_wall05
+    100018: concept_wall:ske_wall06
+    100020: concept_wall:ske_wall07
+    100022: concept_wall:ske_wall08
+    100024: concept_wall:transform1
+    100026: concept_wall:transform10
+    100028: concept_wall:transform18
+    100030: concept_wall:transform19
+    100032: concept_wall:transform2
+    100034: concept_wall:transform3
+    100036: concept_wall:transform4
+    100038: concept_wall:transform5
+    100040: concept_wall:transform6
+    100042: concept_wall:transform7
+    100044: concept_wall:transform8
+    100046: concept_wall:transform9
+    100048: group8
+    100050: group9
+    100052: polySurface438
+    100054: polySurface439
+    100056: polySurface440
+    100058: polySurface441
+    100060: polySurface442
+    100062: polySurface443
+    100064: polySurface444
+    100066: polySurface445
+    100068: polySurface446
+    100070: polySurface447
+    100072: polySurface448
+    100074: polySurface449
+    100076: polySurface450
+    100078: polySurface450 1
+    100080: //RootNode
+    100082: transform289
+    100084: transform294
+    100086: transform295
+    100088: transform296
+    100090: transform297
+    100092: transform298
+    100094: transform299
+    100096: transform300
+    100098: transform301
+    100100: transform302
+    100102: transform303
+    100104: transform304
+    100106: transform305
+    100108: transform306
+    100110: workroom
+    400000: concept_wall:ske_door
+    400002: concept_wall:ske_floor
+    400004: concept_wall:ske_round_wall
+    400006: concept_wall:ske_round_wall 1
+    400008: concept_wall:ske_wall01
+    400010: concept_wall:ske_wall02
+    400012: concept_wall:ske_wall03
+    400014: concept_wall:ske_wall04
+    400016: concept_wall:ske_wall05
+    400018: concept_wall:ske_wall06
+    400020: concept_wall:ske_wall07
+    400022: concept_wall:ske_wall08
+    400024: concept_wall:transform1
+    400026: concept_wall:transform10
+    400028: concept_wall:transform18
+    400030: concept_wall:transform19
+    400032: concept_wall:transform2
+    400034: concept_wall:transform3
+    400036: concept_wall:transform4
+    400038: concept_wall:transform5
+    400040: concept_wall:transform6
+    400042: concept_wall:transform7
+    400044: concept_wall:transform8
+    400046: concept_wall:transform9
+    400048: group8
+    400050: group9
+    400052: polySurface438
+    400054: polySurface439
+    400056: polySurface440
+    400058: polySurface441
+    400060: polySurface442
+    400062: polySurface443
+    400064: polySurface444
+    400066: polySurface445
+    400068: polySurface446
+    400070: polySurface447
+    400072: polySurface448
+    400074: polySurface449
+    400076: polySurface450
+    400078: polySurface450 1
+    400080: //RootNode
+    400082: transform289
+    400084: transform294
+    400086: transform295
+    400088: transform296
+    400090: transform297
+    400092: transform298
+    400094: transform299
+    400096: transform300
+    400098: transform301
+    400100: transform302
+    400102: transform303
+    400104: transform304
+    400106: transform305
+    400108: transform306
+    400110: workroom
+    2100000: concept_wall_sketch_room_UV
+    2300000: polySurface450
+    3300000: polySurface450
+    4300000: polySurface450
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

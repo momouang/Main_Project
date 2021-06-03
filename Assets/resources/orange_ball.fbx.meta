@@ -11,6 +11,7 @@ ModelImporter:
     4300000: lobby_object:pSphere7
     7400000: ball
     9500000: //RootNode
+    11100000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,12 +44,12 @@ ModelImporter:
       name: ball
       takeName: Take 001
       firstFrame: 1
-      lastFrame: 120
-      wrapMode: 0
+      lastFrame: 119
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
-      loop: 0
+      loop: 1
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
@@ -119,7 +120,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

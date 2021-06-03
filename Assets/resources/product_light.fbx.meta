@@ -1,29 +1,14 @@
 fileFormatVersion: 2
-guid: c1fc97f6a6f8f41ca8a64f06c90170a7
+guid: efd8a474acc8241b68dd6aa5b230006a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: lobby_object:pCube63
-    100004: lobby_object:pCube68
-    100006: pCube73
     400000: //RootNode
-    400002: lobby_object:pCube63
-    400004: lobby_object:pCube68
-    400006: pCube73
-    2100000: lobby_object_white_wall
-    2300000: lobby_object:pCube63
-    2300002: lobby_object:pCube68
-    2300004: pCube73
-    3300000: lobby_object:pCube63
-    3300002: lobby_object:pCube68
-    3300004: pCube73
-    4300000: lobby_object:pCube68
-    4300002: lobby_object:pCube63
-    4300004: pCube73
-    7400000: cube_4
-    9500000: //RootNode
-    11100000: //RootNode
+    2100000: lambert1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCone1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -51,35 +36,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: cube_4
-      takeName: Take 001
-      firstFrame: 1
-      lastFrame: 120
-      wrapMode: 2
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 1
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -104,8 +61,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -132,7 +89,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
