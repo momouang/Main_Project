@@ -75,8 +75,13 @@ Material:
     - _DstBlend: 0
     - _EnableExternalAlpha: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - _GlossMapScale: 1
     - _Glossiness: 0.884
+=======
+    - _GlossMapScale: 0.925
+    - _Glossiness: 0.796
+>>>>>>> Stashed changes
 =======
     - _GlossMapScale: 0.925
     - _Glossiness: 0.796
