@@ -22,7 +22,7 @@
     }
     SubShader
     {
-        Tags{ "RenderType"="Transparent" "Queue"="Transparent+1" "IgnoreProjector"="True"}
+        Tags{ "RenderType"="Transparent" "Queue"="AlphaTest" "IgnoreProjector"="True"}
         ZWrite Off
         Blend SrcAlpha OneMinusSrcAlpha
         LOD 100
