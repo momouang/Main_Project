@@ -28,9 +28,9 @@ TagManager:
   - reserved3
   - reserved4
   - PostProcessing
-  - 
-  - 
-  - 
+  - reflectionObj
+  - lobby
+  - blurMirror
   - 
   - 
   - 

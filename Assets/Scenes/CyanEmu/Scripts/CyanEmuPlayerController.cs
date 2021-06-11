@@ -145,7 +145,15 @@ namespace VRCPrefabs.CyanEmu
             GameObject cameraHolder = new GameObject("CameraHolder");
             cameraHolder.transform.SetParent(playerCamera_.transform, false);
             camera_ = cameraHolder.AddComponent<Camera>();
-            camera_.cullingMask &= ~(1 << 18); // remove mirror reflection
+            //camera_.cullingMask &= ~(1 << 18); // remove mirror reflection
+            camera_.cullingMask = descriptor_.ReferenceCamera.GetComponent<Camera>().cullingMask;
+
+            GameObject cameraHolder_child = new GameObject("cameraHolder_child");
+            cameraHolder_child.transform.SetParent(cameraHolder.transform, false);
+            Camera camera_child = cameraHolder_child.AddComponent<Camera>();
+            camera_child.cullingMask = descriptor_.ReferenceCamera.transform.GetChild(0).GetComponent<Camera>().cullingMask;
+            camera_child.depth = 1;
+            camera_child.clearFlags = CameraClearFlags.Depth;
 
             // TODO, make based on avatar armspan/settings
             cameraHolder.transform.localScale = Vector3.one * AVATAR_SCALE_;

@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 47220537d1aceee4c89f8714449e4c79
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aworld_entry
+    100002: bigsign
+    100004: Bworld_floor
+    100006: Bworld_sphere
+    100008: Bworld_stage
+    100010: Bworld_stairs
+    100012: line
+    100014: lobby_ceiling
+    100016: lobby_entry
+    100018: lobby_floor
+    100020: //RootNode
+    100022: lobby_wall
+    100024: right_entry
+    100026: sketchroom_entry
+    100028: smallsign
+    400000: Aworld_entry
+    400002: bigsign
+    400004: Bworld_floor
+    400006: Bworld_sphere
+    400008: Bworld_stage
+    400010: Bworld_stairs
+    400012: line
+    400014: lobby_ceiling
+    400016: lobby_entry
+    400018: lobby_floor
+    400020: //RootNode
+    400022: lobby_wall
+    400024: right_entry
+    400026: sketchroom_entry
+    400028: smallsign
+    2100000: lambert2
+    2100002: lobby_new_lobby_object_aiStandardSurface13
+    2100004: lambert4
+    2100006: lobby_new_lobby_object_white_wall
+    2100008: lambert1
+    2300000: Aworld_entry
+    2300002: bigsign
+    2300004: Bworld_floor
+    2300006: Bworld_sphere
+    2300008: Bworld_stage
+    2300010: Bworld_stairs
+    2300012: line
+    2300014: lobby_ceiling
+    2300016: lobby_entry
+    2300018: lobby_floor
+    2300020: lobby_wall
+    2300022: right_entry
+    2300024: sketchroom_entry
+    2300026: smallsign
+    3300000: Aworld_entry
+    3300002: bigsign
+    3300004: Bworld_floor
+    3300006: Bworld_sphere
+    3300008: Bworld_stage
+    3300010: Bworld_stairs
+    3300012: line
+    3300014: lobby_ceiling
+    3300016: lobby_entry
+    3300018: lobby_floor
+    3300020: lobby_wall
+    3300022: right_entry
+    3300024: sketchroom_entry
+    3300026: smallsign
+    4300000: bigsign
+    4300002: line
+    4300004: smallsign
+    4300006: sketchroom_entry
+    4300008: Bworld_sphere
+    4300010: Bworld_stage
+    4300012: Bworld_stairs
+    4300014: Bworld_floor
+    4300016: lobby_entry
+    4300018: Aworld_entry
+    4300020: right_entry
+    4300022: lobby_wall
+    4300024: lobby_ceiling
+    4300026: lobby_floor
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
