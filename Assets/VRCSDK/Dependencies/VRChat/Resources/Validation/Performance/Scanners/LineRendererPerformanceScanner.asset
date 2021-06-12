@@ -1,14 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec87392b85844f7bb526a48ec866a8f0, type: 3}
-  m_Name: LineRendererPerformanceScanner
-  m_EditorClassIdentifier: 
-  includeInactiveObjectsInStats: 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbc86bfa4940f2c3dbb6cf2217c956bed95ec4edf52cad92efff9ce771bfc71d
+size 432

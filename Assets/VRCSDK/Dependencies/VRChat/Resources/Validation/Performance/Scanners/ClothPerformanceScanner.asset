@@ -1,14 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0cec88b5a46f459195f10a2f11fddb2f, type: 3}
-  m_Name: ClothPerformanceScanner
-  m_EditorClassIdentifier: 
-  includeInactiveObjectsInStats: 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:65fce4f18f5b53e225a7a4917462a2fe5d8d0877d3d0dfb55b3aa1b169f43d79
+size 425
